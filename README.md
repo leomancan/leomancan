@@ -1,7 +1,6 @@
 ## Hi there , 
 # HexagonNico 🐺
 
-![Logo](logo.png)
 
 Software engineer and independent game designer with experience in Unity, Godot, and OpenGL.
 
